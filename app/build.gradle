@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace 'kr.ac.kumoh.s20200886.s23w03lotto'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "kr.ac.kumoh.s20200886.s23w03lotto"
         minSdk 21
-        targetSdk 32
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 
